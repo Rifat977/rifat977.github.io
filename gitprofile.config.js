@@ -33,19 +33,14 @@ const config = {
       'https://www.canva.com/design/DAFRGGFlUMU/TtlUEpnxgd0GjQis7Gtxnw/view?utm_content=DAFRGGFlUMU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    'Python',
+    'Django',
     'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
+    'Nuxt.js',
     'MySQL',
     'PostgreSQL',
     'Git',
     'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
     'Tailwind',
   ],
   experiences: [
