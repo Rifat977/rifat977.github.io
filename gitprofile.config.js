@@ -11,26 +11,26 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'mamun-rifatdev',
+    twitter: 'r_fat36',
+    mastodon: '',
     facebook: '',
     instagram: '',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: 'rifat977',
+    dev: 'rifat977',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://arifszn.com',
+    website: 'https://rifat977.github.io',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'dev.abdullah.mamun@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://www.canva.com/design/DAFRGGFlUMU/TtlUEpnxgd0GjQis7Gtxnw/view?utm_content=DAFRGGFlUMU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
@@ -50,18 +50,18 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Visionary Tech Solution',
+      position: 'Backend Developer',
+      from: 'July 2023',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.visionarytechsolution.com/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Quickit24',
+      position: 'Intern Backend Developer',
+      from: 'April 2023',
+      to: 'June 2023',
+      companyLink: 'https://quickit24.com',
     },
   ],
   /* certifications: [
@@ -74,16 +74,10 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Daffodil International University',
+      degree: 'Bsc in Software Engineering',
+      from: '2022',
+      to: '2025',
     },
   ],
 
@@ -106,8 +100,8 @@ const config = {
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    source: '', // medium | dev
+    username: '', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
@@ -179,11 +173,11 @@ const config = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
-      target="_blank"
-      rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+  // footer: `Made with <a 
+  //     class="text-primary" href="https://github.com/arifszn/gitprofile"
+  //     target="_blank"
+  //     rel="noreferrer"
+  //   >GitProfile</a> and ❤️`,
 };
 
 export default config;
