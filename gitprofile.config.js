@@ -79,18 +79,18 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Wall-E',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Real time object detection and face recognition from ESP32 cam & robot controlling. Built with Django & Yolo model',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://github.com/Rifat977/object_detection',
     },
     {
-      title: 'Project Name',
+      title: '0xbyte',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        '0xByte Specialize in decoding complexities, offering insights, and empowering businesses with transformative solutions. Developing using Tailwind & Nuxt Js',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'http://0xbyte.vercel.app/',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
