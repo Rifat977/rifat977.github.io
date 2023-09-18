@@ -83,7 +83,7 @@ const config = {
       description:
         'The software considers a system of voice messenger to favor interaction of blind users with any other user connected to the network',
       imageUrl: 'https://github.com/Rifat977/blindmeta',
-      link: '',
+      link: 'https://github.com/Rifat977/object_detection',
     },
     {
       title: 'Wall-E',
