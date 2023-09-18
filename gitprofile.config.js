@@ -79,6 +79,13 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
+      title: 'Blindmeta',
+      description:
+        'The software considers a system of voice messenger to favor interaction of blind users with any other user connected to the network',
+      imageUrl: 'https://github.com/Rifat977/blindmeta',
+      link: '',
+    },
+    {
       title: 'Wall-E',
       description:
         'Real time object detection and face recognition from ESP32 cam & robot controlling. Built with Django & Yolo model',
