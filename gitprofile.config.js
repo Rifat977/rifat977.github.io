@@ -34,14 +34,17 @@ const config = {
   },
   skills: [
     'Python',
+    'Javascript',
+    'PHP',
+    'Java',
     'Django',
-    'JavaScript',
-    'Nuxt.js',
+    'Laravel',
+    'Nuxt Js',
+    'Tailwind',
     'MySQL',
     'PostgreSQL',
     'Git',
     'Docker',
-    'Tailwind',
   ],
   experiences: [
     {
@@ -52,11 +55,11 @@ const config = {
       companyLink: 'https://www.visionarytechsolution.com/',
     },
     {
-      company: 'Quickit24',
-      position: 'Intern Backend Developer',
-      from: 'April 2023',
+      company: 'Xemiron It Solutions',
+      position: 'Junior Django Developer',
+      from: 'March 2023',
       to: 'June 2023',
-      companyLink: 'https://quickit24.com',
+      companyLink: 'https://xemiron.com/',
     },
   ],
   /* certifications: [
@@ -82,8 +85,8 @@ const config = {
       title: 'Blindmeta',
       description:
         'The software considers a system of voice messenger to favor interaction of blind users with any other user connected to the network',
-      imageUrl: 'https://github.com/Rifat977/blindmeta',
-      link: 'https://github.com/Rifat977/object_detection',
+        imageUrl: 'https://via.placeholder.com/250x250',
+        link: 'https://github.com/Rifat977/object_detection',
     },
     {
       title: 'Wall-E',
@@ -102,7 +105,7 @@ const config = {
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
+    source: 'medium', // medium | dev
     username: 'rifat977', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
