@@ -4,14 +4,14 @@ const config = {
   github: {
     username: 'rifat977', // Your GitHub org/user name. (Required)
     sortBy: 'updated', // stars | updated
-    limit: 8, // How many projects to display.
+    limit: 6, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
-      projects: ['Rifat977', 'data-structure'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      projects: ['Rifat977', 'data-structure', 'streamlit-example', 'pyscrap'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
-    linkedin: 'mamun-rifatdev',
+    linkedin: 'rifat977',
     twitter: 'r_fat36',
     mastodon: '',
     facebook: '',
@@ -19,7 +19,7 @@ const config = {
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: 'rifat977',
+    medium: '',
     dev: 'rifat977',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
