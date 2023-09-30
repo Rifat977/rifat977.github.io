@@ -34,17 +34,20 @@ const config = {
   },
   skills: [
     'Python',
-    'Javascript',
-    'PHP',
-    'Java',
     'Django',
-    'Laravel',
+    'Javascript',
+    'Jquery',
     'Nuxt Js',
+    'PHP',
+    'Laravel',
+    'Java',
+    'REST API',
     'Tailwind',
+    'Bootstrap',
     'MySQL',
     'PostgreSQL',
     'Git',
-    'Docker',
+    'Linux',
   ],
   experiences: [
     {
@@ -89,7 +92,7 @@ const config = {
         link: 'https://github.com/Rifat977/object_detection',
     },
     {
-      title: 'Wall-E',
+      title: 'Object Detection',
       description:
         'Real time object detection and face recognition from ESP32 cam & robot controlling. Built with Django & Yolo model',
       imageUrl: 'https://via.placeholder.com/250x250',
@@ -118,11 +121,11 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'synthwave',
+    defaultTheme: 'dracula',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: false,
+    disableSwitch: true,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
