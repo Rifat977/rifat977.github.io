@@ -45,7 +45,7 @@ const AvatarCard = ({ profile, loading, avatarRing, resume }) => {
               skeleton({ width: 'w-48', height: 'h-8' })
             ) : (
               <span className="text-base-content opacity-70">
-                Abdullah Al Mamun ({profile.name})
+                Abdullah Al Mamun (Rifat)
               </span>
             )}
           </h5>
