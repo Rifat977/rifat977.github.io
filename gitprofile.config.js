@@ -85,6 +85,13 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
+      title: 'TripAdvisor',
+      description:
+        'The TripAdvisor Project is a dynamic Django-based web application designed to provide personalized tourist recommendations and accommodations through user chat preferences. Utilizing sophisticated algorithms, it analyzes user input to suggest tailored travel destinations and lodging options, ensuring a seamless and enriching travel planning experience. With its intuitive interface and comprehensive database, the project aims to revolutionize the way users discover and plan their vacations, offering insightful suggestions and empowering travelers to make informed decisions.',
+        imageUrl: 'https://via.placeholder.com/250x250',
+        link: 'https://github.com/Rifat977/tripadvisor_frontend',
+    },
+    {
       title: 'Blindmeta',
       description:
         'The software considers a system of voice messenger to favor interaction of blind users with any other user connected to the network',
