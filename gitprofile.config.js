@@ -88,7 +88,7 @@ const config = {
       title: 'TripAdvisor',
       description:
         'The TripAdvisor Project is a dynamic Django-based web application designed to provide personalized tourist recommendations and accommodations through user chat preferences.',
-        imageUrl: 'https://via.placeholder.com/250x250',
+        imageUrl: 'tripadvisor.png',
         link: 'https://github.com/Rifat977/tripadvisor_frontend',
     },
     {
